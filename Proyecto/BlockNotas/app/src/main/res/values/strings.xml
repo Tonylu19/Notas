@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Block Notas</string>
+    <string name="hola">Hola.</string>
+    <string name="continuar">Continuar.</string>
+</resources>

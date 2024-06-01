@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241597568445",
+    "project_id": "block-notas-5b414",
+    "storage_bucket": "block-notas-5b414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241597568445:android:9866b142fc25f50f98aed4",
+        "android_client_info": {
+          "package_name": "com.example.blocknotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWk0B2lj1qypAaYgQaTIhlM-HW3G4d34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
